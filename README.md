@@ -34,7 +34,7 @@
  
 ```html
 <div class = "outer-hori outer-vert">
-  <div class = "inner-hori outer-vert">
+  <div class = "inner-hori inner-vert">
   </div>
 </div>
 ```
