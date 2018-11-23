@@ -1,5 +1,9 @@
  CSS-center
 
+<h3for work need jquery</h3>
+```html
+<script src = "https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+````
 <h3>Example:</h3>
 <br>
 <h4>Vertical Alignment</h4>
