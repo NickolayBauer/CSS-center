@@ -22,3 +22,15 @@
 </div>
 ```
 <img src = "img/vert.png">
+
+
+
+<h4>Horizontal and Vertical Alignment</h4>
+ 
+```html
+<div class = "outer-hori outer-vert">
+  <div class = "inner-hori outer-vert">
+  </div>
+</div>
+```
+<img src = "img/vert-hori.png">
