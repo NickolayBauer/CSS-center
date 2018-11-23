@@ -1,8 +1,9 @@
  CSS-center
-#
-#Example for:
-#Vertical Alignment
-#
+
+<h3>Example:</h3>
+<br>
+<h4>Vertical Alignment</h4>
+
 ```html
 <div class = "outer-vert">
   <div class = "inner-vert">
@@ -10,3 +11,14 @@
 </div>
 ```
 <img src = "img/hori.png">
+
+
+<h4>Horizontal Alignment</h4>
+
+```html
+<div class = "outer-hori">
+  <div class = "inner-hori">
+  </div>
+</div>
+```
+<img src = "img/vert.png">
