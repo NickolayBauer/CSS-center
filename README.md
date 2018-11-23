@@ -7,3 +7,4 @@
   </div>
 </div>
 ```
+<img src = "img/hori.jpg">
